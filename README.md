@@ -10,5 +10,7 @@ Prerequisite
 - Your server and client required to have jave installed on the machine.
 
 Run the program
-- place java server program in /home/user 
-- 
+- Place java server program in /home/user (Node A)
+- Place java client in /home/user in other machine (node B)
+- Run bash file "sshattempt.sh"
+- monitor the server (node A)
